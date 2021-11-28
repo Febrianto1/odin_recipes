@@ -24,6 +24,7 @@ h3, h4 {
 li, p {
     color: purple;
     font-family: monospace;
+    list-style: none;
 }
 
 
